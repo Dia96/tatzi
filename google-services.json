@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789110837345",
+    "firebase_url": "https://tatzi-90bc2.firebaseio.com",
+    "project_id": "tatzi-90bc2",
+    "storage_bucket": "tatzi-90bc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789110837345:android:072cb269301c6f110d9a20",
+        "android_client_info": {
+          "package_name": "com.codingwithflutter.trial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789110837345-cqro50f0si2p0clqk7kp8n886llngtjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnL9IJo8rQyzpVjIN_Dg9ZZGpC-q9Uzsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789110837345-cqro50f0si2p0clqk7kp8n886llngtjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
