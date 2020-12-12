@@ -1,6 +1,6 @@
 # trial_app
 
-A new Flutter application.
+A login UI built using Flutter and dart.
 
 ## Getting Started
 
